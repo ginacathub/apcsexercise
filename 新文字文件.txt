@@ -1,0 +1,7 @@
+l = list()
+dir(l)
+['append', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
+
+t = tuple()
+dir(t)
+['count', 'index']
